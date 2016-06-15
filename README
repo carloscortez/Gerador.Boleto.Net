@@ -1,12 +1,14 @@
 GERADOR DE BOLETO EM C#.
 
-Gera Boletos para os seguintes bancos.
+Gera Boletos e (Leitura de Arquivo de remessa - em desenvolimento) para os seguintes bancos.
 
 BANCO DO BRASIL
 BRADESCO
 CAIXA
-ITAÚ
+ITAÃš
 HSBC
 SUDAMERIS
 SAFRA
 REAL
+
+
